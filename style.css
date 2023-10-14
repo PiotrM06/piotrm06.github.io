@@ -16,6 +16,6 @@ h2{
 p{
     text-align: center;
     bottom: 20px;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     box-shadow: 10px, 10px, 10px, 10px ;
 }
