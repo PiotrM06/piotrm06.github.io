@@ -18,5 +18,5 @@ p{
     text-align: center;
     bottom: 20px;
     background-color: black;
-    box-shadow: 30px, 30px, 10px, 30px ;
+    border-radius: 20px;
 }
