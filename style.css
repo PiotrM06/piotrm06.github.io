@@ -16,8 +16,7 @@ h2{
 p{
     color:blue;
     text-align: center;
-    padding: 10px;
-    bottom: 30px;
+    bottom: 20px;
     background-color: rgb(255, 0, 0);
     box-shadow: 30px, 30px, 10px, 30px ;
 }
