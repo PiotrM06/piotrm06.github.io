@@ -1,8 +1,9 @@
 body{
     background-image: url(Image/TŁO2.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
-    padding: 0px;
-    margin: 0px;
+    background-position: auto;
+    
 }
 h1{
     padding: 0px;
