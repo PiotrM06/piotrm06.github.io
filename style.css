@@ -3,7 +3,7 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-position: auto;   
-      margin: 0;
+        margin: 0;
     }
     
     nav{
@@ -42,6 +42,6 @@
       background: rgb(0, 102, 255);
     }
     iframe{
-        margin-top: 14em;
-        margin-left: 28.5em;
+        margin-top: 4em;
+        margin-left: 30em;
     }
