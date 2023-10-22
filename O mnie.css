@@ -1,0 +1,55 @@
+body{
+  background-image: url(Image/TŁO2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: auto;   
+  margin: 0;
+}
+
+nav{
+height: 99px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+/* box-shadow: 0 0 10px 10px #00000055; */
+padding-left: 100px;
+padding-right: 100px;
+}
+.logo{
+  padding: 10px 20px 10px 20px;
+  margin-left: 10px;
+  border-radius: 5px;
+  text-align: center;
+  color: rgb(0, 140, 255);
+  text-decoration: none;
+  font-size: 3em;
+  font-family:fantasy;
+}
+.menu-list{
+list-style-type: none;
+display: flex;
+}
+.link a{
+padding: 10px 20px 10px 20px;
+margin-left: 10px;
+border-radius: 10px;
+background: blue;
+
+color: white;
+text-decoration: none;
+}
+.link a:hover{
+background: rgb(0, 102, 255);
+}
+.ja{
+  padding: 50px 20px 10px 20px;
+  margin-top: 5.5em;
+  margin-left: 11em ;
+  margin-right: 14em;
+  border-radius: 5px;
+  text-align: center;
+  color: rgb(173, 180, 192);
+  text-decoration: none;
+  font-size: 2.20em;
+  font-family:fantasy;
+}
